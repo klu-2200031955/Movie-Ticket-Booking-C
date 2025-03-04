@@ -33,7 +33,7 @@ The program manages movie details and transactions using file handling.
 ## Usage Instructions
 1. Compile the program using:
    ```sh
-   gcc movie_ticket.c -o movie_ticket
+   gcc main.c -o movie_ticket
    ```
    
 2. Run the executable:
